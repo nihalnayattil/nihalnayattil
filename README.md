@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-illustration-download-in-svg-png-gif-file-formats--html-logo-c-plus-business-concept-pack-illustrations-3560991.png"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
